@@ -1,5 +1,7 @@
-Corncoin integration/staging tree
+Corncoin
 ================================
+
+Corncoin is a totally awesome new cryptocurrency built for/by DSU (and friends). We forsee it being used for a whole lot of nothing important, but being a whole lot of fun. Give it a go. :)
 
 http://www.corncoin.cc
 
